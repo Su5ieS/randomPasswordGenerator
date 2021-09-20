@@ -19,6 +19,8 @@ let password = " "
 
 // when generate button is clicked,  the writePassword function is called
 generateBtn.addEventListener("click", writePassword) 
+
+// when clear button is clicked,  the refreshPage function is called
 clearBtn.addEventListener("click", refreshPage)
 
 //this large function contains the alert messages and recieves input for what to include in the password.
@@ -64,7 +66,7 @@ function generatePassword() {
   return password;
 }
 
-  // 
+  // this function is called when clear button is pressed and refreshes the screen to clear previous input
 function refreshPage() {
 
    window.location.reload();

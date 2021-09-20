@@ -14,4 +14,7 @@ https://su5ies.github.io/randomPasswordGenerator/
 
 ## Screenshot
 
-![The Password Generator application displays a red button to "Generate Password" and alerts to compile password content.](./images/alerts.jpg) 
+![image](https://user-images.githubusercontent.com/84972783/134040802-6cf651ba-f58b-4c54-806d-6365748b492b.png)
+![image](https://user-images.githubusercontent.com/84972783/134040876-ed18e4bd-69da-4eee-a828-79262ecd8745.png)
+![image](https://user-images.githubusercontent.com/84972783/134040967-a754a037-1ad8-4816-9c79-03aacc24302c.png)
+
